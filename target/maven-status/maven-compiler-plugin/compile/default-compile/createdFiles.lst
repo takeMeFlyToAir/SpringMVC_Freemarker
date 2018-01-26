@@ -1,0 +1,9 @@
+com\ffcs\oss\config\ExtFreeMarkerView.class
+com\ffcs\oss\controller\MainController.class
+com\ffcs\oss\controller\TestFreemarker.class
+com\ffcs\oss\controller\LogController.class
+com\ffcs\oss\domain\MenuVO.class
+com\ffcs\oss\domain\User.class
+com\ffcs\oss\controller\MenuController.class
+com\ffcs\oss\controller\AddressController.class
+com\ffcs\oss\controller\UserController.class
